@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Programador Web Junior
 
-<!--
-**Bryan14Saenz/Bryan14Saenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un programador web junior con una sólida base en desarrollo frontend y proximamente en backend, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, busco contribuir a proyectos innovadores mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
 
-Here are some ideas to get you started:
+## 💼 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Herramientas**: Visual Studio Code, Git, GitHub.
+- **Lenguajes de Programación**: HTML, CSS, JavaScript, TypeScript.
+- **Frameworks & Librerías**: Bootstrap, Sass, JQuery.
+- **Bases de Datos**: Proximamente...
+
+## 🛠️ Proyectos Destacados
+
+### Pagina Web de Servicio de Comida
+https://delis-hots.netlify.app/
+
+### Galeria de Imagenes de la Serie One Piece
+https://onepiecelosmasbuscados.netlify.app/
+
+## 🎓 Educación
+
+- **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
+- Cursos en línea en programación web y desarrollo de aplicaciones full stack.
+
+## 🌱 Objetivos
+
+Continuar mejorando mis conocimientos en desarrollo web y tecnologías de backend, con la meta de convertirme en un ingeniero de sistemas completo y contribuir a proyectos de alto impacto.
+
+---
+
+Puedes contactarme en 14BryanSaenz.@gmail.com.
