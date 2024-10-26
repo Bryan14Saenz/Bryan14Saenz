@@ -8,7 +8,7 @@
 - **Lenguajes de Programación**: HTML, CSS, JavaScript, TypeScript.
 - **Frameworks & Librerías**: Bootstrap, Sass, JQuery.
 - **Bases de Datos**: Proximamente...
-- ![JSR Version](https://img.shields.io/jsr/v/:scope/:packageName)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/:user).
 
 
 ## 🛠️ Proyectos Destacados
