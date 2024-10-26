@@ -1,4 +1,5 @@
 # 👨‍💻 Programador Web Junior
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ¡Hola! Soy un programador web junior con una sólida base en desarrollo frontend y proximamente en backend, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, busco contribuir a proyectos innovadores mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
 
@@ -8,8 +9,6 @@
 - **Lenguajes de Programación**: HTML, CSS, JavaScript, TypeScript.
 - **Frameworks & Librerías**: Bootstrap, Sass, JQuery.
 - **Bases de Datos**: Proximamente...
-![GitHub Sponsors](https://img.shields.io/github/sponsors/:user).
-
 
 ## 🛠️ Proyectos Destacados
 
