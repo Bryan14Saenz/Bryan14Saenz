@@ -38,7 +38,8 @@ https://onepiecelosmasbuscados.netlify.app/
 Continuar mejorando mis conocimientos en desarrollo web y tecnologías de backend, con la meta de convertirme en un ingeniero de sistemas completo y contribuir a proyectos de alto impacto.
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan14Saenz_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan14Saenz&show_icons=true&theme=onedark)
+
 
 
 ---
