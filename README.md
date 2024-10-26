@@ -1,8 +1,10 @@
 # 👨‍💻 Programador Web Junior
+
+¡Hola! Soy un programador web junior con una sólida base en desarrollo frontend y proximamente en backend, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, busco contribuir a proyectos innovadores mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
+
 ## **Lenguaje Favorito**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-¡Hola! Soy un programador web junior con una sólida base en desarrollo frontend y proximamente en backend, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, busco contribuir a proyectos innovadores mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
 
 ## 💼 Habilidades Técnicas
 
