@@ -43,6 +43,9 @@ Continuar mejorando mis conocimientos en desarrollo web y tecnologías de backen
 ### 🌐 Lenguajes más Usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan14Saenz&layout=compact&theme=onedark)
 
+### 🏆 GitHub Profile Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=Bryan14Saenz&theme=onedark&column=3)
+
 
 ---
 
