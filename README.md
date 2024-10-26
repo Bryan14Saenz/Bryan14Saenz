@@ -31,20 +31,6 @@ https://delis-hots.netlify.app/
 ### Galeria de Imagenes de la Serie One Piece
 https://onepiecelosmasbuscados.netlify.app/
 
-### 🌟 Proyectos Destacados
-
-#### [📌 Plataforma para Diabéticos](https://github.com/tuUsuario/Plataforma-Diabeticos)
-Aplicación web donde los usuarios pueden registrarse, llevar un registro de sus niveles de azúcar y recibir recomendaciones personalizadas. Desarrollado con React, Node.js y MongoDB.
-
-![Screenshot](https://link-a-tu-imagen.png)
-
-#### [📌 Sistema de Inventario en Excel](https://github.com/tuUsuario/Sistema-Inventario)
-Sistema de inventario programado en VBA y Excel, que permite gestionar y monitorear el stock de productos de manera eficiente.
-
-![Screenshot](https://link-a-tu-imagen.png)
-
-
-
 ## 🎓 Educación
 
 - **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
@@ -62,6 +48,12 @@ Continuar mejorando mis conocimientos en desarrollo web y tecnologías de backen
 
 ### 🏆 GitHub Profile Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Bryan14Saenz&theme=onedark&column=3)
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/14bryansaenz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/14bryansaenz)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Bryan14saenz)
 
 
 ---
