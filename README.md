@@ -31,6 +31,20 @@ https://delis-hots.netlify.app/
 ### Galeria de Imagenes de la Serie One Piece
 https://onepiecelosmasbuscados.netlify.app/
 
+### 🌟 Proyectos Destacados
+
+#### [📌 Plataforma para Diabéticos](https://github.com/tuUsuario/Plataforma-Diabeticos)
+Aplicación web donde los usuarios pueden registrarse, llevar un registro de sus niveles de azúcar y recibir recomendaciones personalizadas. Desarrollado con React, Node.js y MongoDB.
+
+![Screenshot](https://link-a-tu-imagen.png)
+
+#### [📌 Sistema de Inventario en Excel](https://github.com/tuUsuario/Sistema-Inventario)
+Sistema de inventario programado en VBA y Excel, que permite gestionar y monitorear el stock de productos de manera eficiente.
+
+![Screenshot](https://link-a-tu-imagen.png)
+
+
+
 ## 🎓 Educación
 
 - **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
