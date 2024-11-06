@@ -27,7 +27,7 @@
 ## 🛠️ Proyectos Destacados
 
 ### Pagina Web de Servicio de Comida
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ID_DEL_SITIO/deploy-status)](https://delishots.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ID_DEL_SITIO/deploy-status)](https://delishots.netlify.app)
 
 ### Galeria de Imagenes de la Serie One Piece
 https://onepiecelosmasbuscados.netlify.app/
