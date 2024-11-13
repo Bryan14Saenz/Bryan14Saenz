@@ -30,10 +30,6 @@
 ![Netlify Status](https://api.netlify.com/api/v1/badges/13d3d46a-24fd-477c-affd-a09a21f6a07d/deploy-status)
 (https://delishots.netlify.app)
 
-### Galeria de Imagenes de la Serie One Piece
-https://onepiecelosmasbuscados.netlify.app/
-
-## 🎓 Educación
 
 - **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
 - Cursos en línea en programación web y desarrollo de aplicaciones full stack.
