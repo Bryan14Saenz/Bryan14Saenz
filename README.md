@@ -1,6 +1,6 @@
 # 👨‍💻 Programador Web Junior
 
-¡Hola! Soy un programador web junior con una sólida base en desarrollo frontend y proximamente en backend, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, busco contribuir a proyectos innovadores mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
+¡Hola! Soy un programador web junior con una sólida base en desarrollo frontend y proximamente en backend, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, busco contribuir a proyectos innovadores, mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
 
 ## **Lenguaje Favorito**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,14 +26,11 @@
 
 ## 🛠️ Proyectos Destacados
 
-### Pagina Web de Servicio de Comida
-![Netlify Status](https://api.netlify.com/api/v1/badges/13d3d46a-24fd-477c-affd-a09a21f6a07d/deploy-status)
-(https://delishots.netlify.app)
 
 ## 🏫 Estudios
 
 - **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
-- Cursos en línea en programación web y desarrollo de aplicaciones full stack.
+- Cursos en línea en programación web y desarrollo de aplicaciones frontend.
 
 ## 🌱 Objetivos
 
