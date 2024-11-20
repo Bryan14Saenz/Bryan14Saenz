@@ -25,6 +25,11 @@
 - **Bases de Datos**: Proximamente...
 
 ## 🛠️ Proyectos Destacados
+- Servidor Remoto:
+![Netlify Status](https://api.netlify.com/api/v1/badges/959afa73-f5f1-43f0-94e4-bfc4adade78d/deploy-status)
+
+- Portfolio Personal
+https://portfoliob14s.netlify.app/
 
 
 ## 🏫 Estudios
