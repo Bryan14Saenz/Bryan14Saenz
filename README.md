@@ -31,9 +31,11 @@
 - Portfolio Personal
 https://portfoliob14s.netlify.app/
 
-- NicaPage
+- Nica Page
 https://nicapege.netlify.app/
 
+- Delis Hots
+https://delishots.netlify.app/
 
 ## 🏫 Estudios
 
