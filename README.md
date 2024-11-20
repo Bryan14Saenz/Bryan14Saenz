@@ -31,6 +31,9 @@
 - Portfolio Personal
 https://portfoliob14s.netlify.app/
 
+- NicaPage
+https://nicapege.netlify.app/
+
 
 ## 🏫 Estudios
 
