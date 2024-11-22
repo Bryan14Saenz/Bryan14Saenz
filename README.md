@@ -37,6 +37,9 @@ https://nicapege.netlify.app/
 - Delis Hots
 https://delishots.netlify.app/
 
+- Mini Api De One Piece
+https://miniapionepice.netlify.app/
+
 ## 🏫 Estudios
 
 - **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
