@@ -32,7 +32,7 @@
 https://portfoliob14s.netlify.app/
 
 - Nica Page
-https://nicapege.netlify.app/
+https://nicapage.netlify.app/
 
 - Delis Hots
 https://delishots.netlify.app/
