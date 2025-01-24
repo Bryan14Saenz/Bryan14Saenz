@@ -37,8 +37,11 @@ https://nicapage.netlify.app/
 - Delis Hots
 https://delishots.netlify.app/
 
-- Diabetic Control
-https://diabeticcontrol.netlify.app/
+- Client List
+https://clienteslista.netlify.app/
+
+- Juego Laberinto
+https://desafiolaberinto.netlify.app/
 
 - Mini Api De One Piece
 https://miniapionepice.netlify.app/
