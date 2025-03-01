@@ -29,7 +29,7 @@
 
 ## 🛠️ Proyectos Destacados
 - Servidor Remoto:
-![Netlify Status](https://api.netlify.com/api/v1/badges/959afa73-f5f1-43f0-94e4-bfc4adade78d/deploy-status)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 - Portfolio Personal
 https://portafoliob14s.netlify.app/
