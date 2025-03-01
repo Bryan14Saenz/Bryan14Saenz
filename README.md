@@ -17,11 +17,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 - **Frameworks & Librerías** 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bootstrap Icons](https://img.shields.io/badge/Bootstrap%20Icons-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
+
 - **Bases de Datos**: Proximamente...
 
 ## 🛠️ Proyectos Destacados
@@ -29,7 +32,7 @@
 ![Netlify Status](https://api.netlify.com/api/v1/badges/959afa73-f5f1-43f0-94e4-bfc4adade78d/deploy-status)
 
 - Portfolio Personal
-https://portfoliob14s.netlify.app/
+https://portafoliob14s.netlify.app/
 
 - Nica Page
 https://nicapage.netlify.app/
@@ -46,8 +49,8 @@ https://desafiolaberinto.netlify.app/
 - Mini Api De One Piece
 https://miniapionepice.netlify.app/
 
-- Todo App & Login
-https://todoapplogin.netlify.app/
+- Login
+https://login.netlify.app/
 
 ## 🏫 Estudios
 
