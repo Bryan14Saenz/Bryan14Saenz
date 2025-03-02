@@ -32,7 +32,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 - Portfolio Personal
-https://portafoliob14s.netlify.app/
+https://bryan14saenz.is-a.dev/
 
 - Nica Page
 https://nicapage.netlify.app/
