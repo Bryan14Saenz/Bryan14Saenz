@@ -50,7 +50,7 @@ https://desafiolaberinto.netlify.app/
 https://miniapionepice.netlify.app/
 
 - Login
-https://login.netlify.app/
+https://listadetareslogin.netlify.app/
 
 ## 🏫 Estudios
 
