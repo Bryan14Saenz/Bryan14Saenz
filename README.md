@@ -1,5 +1,5 @@
-# 👨‍💻 Web Developer
-Soy un programador web con una sólida base en desarrollo front-end, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, en busca de contribuir en proyectos innovadores, mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
+# 👨‍💻 Developer - Front-end
+Soy un programador con una sólida base en desarrollo front-end, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, en busca de contribuir en proyectos innovadores, mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
 
 ## **Lenguaje Favorito**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
