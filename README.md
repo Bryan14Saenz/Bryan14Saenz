@@ -23,6 +23,10 @@ Soy un programador con una sólida base en desarrollo front-end, apasionado por 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+- **Package Managers**
+![NPM](https://img.shields.io/badge/NPM-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 - **Frameworks & Librerías** 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bootstrap Icons](https://img.shields.io/badge/Bootstrap%20Icons-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
