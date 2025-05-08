@@ -1,87 +1,76 @@
 # 👨‍💻 Developer - Front-end
-Soy un programador con una sólida base en desarrollo front-end, apasionado por crear soluciones eficientes y atractivas para la web. Enfocado en aprender y aplicar tecnologías modernas, en busca de contribuir en proyectos innovadores, mientras desarrollo mis habilidades en un entorno colaborativo y de constante aprendizaje.
+I'm a programmer with a solid background in front-end development, passionate about creating efficient and engaging web solutions. 
+I focus on learning and applying modern technologies, seeking to contribute to innovative projects and develop my skills in a collaborative, continuous learning environment. 
 
-## **Lenguaje Favorito**
+## *Favorite Language*
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 💼 Habilidades Técnicas
-- **Herramientas** 
+## 💼 *Technical Skills*
+- *Tools*
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)](https://www.netlify.com/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma)
 
-- **Metodologias**
+- *Methodologies*
+
 ![BEM](https://img.shields.io/badge/BEM-007ACC?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Lenguajes de Marcado**
+- *Markup Languages*
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Lenguajes de Programación** 
+- *Programming Languages*
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- **Package Managers**
+- *Package Managers*
+
 ![NPM](https://img.shields.io/badge/NPM-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- **Frameworks & Librerías** 
+- *Frameworks & Libraries*
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-- **Bases de Datos**: Proximamente...
+- *Databases*: Soon...
 
-## 🛠️ Proyectos Destacados
-- Servidor Remoto:
+## 🛠️ *Featured Projects*
+- Remote Server
+
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-- Portfolio Personal
-https://bryan14saenz.is-a.dev/
+- Personal Portfolio: https://bryan14saenz.is-a.dev/
 
-- Nica Page
-https://nicapage.netlify.app/
+## 🏫 *Studies*
+- Ricardo Morales Aviles Multidisciplinary University - Systems Engineering.
+- Online courses in web programming and front-end application development.
 
-- Delis Hots
-https://delishots.netlify.app/
+## 🌱 *Goals*
+Continue improving my knowledge of web development and backend technologies, with the goal of becoming a complete systems engineer, contributing to high-impact projects, and becoming a full-stack software developer specializing in JavaScript.
 
-- Client List
-https://clienteslista.netlify.app/
-
-- Juego Laberinto
-https://desafiolaberinto.netlify.app/
-
-- Mini Api De One Piece
-https://miniapionepice.netlify.app/
-
-- Login
-https://listadetareslogin.netlify.app/
-
-## 🏫 Estudios
-- **Universidad Multidiciplinaria Ricardo Morales Aviles** - Estudiante de Ingeniería en Sistemas.
-- Cursos en línea en programación web y desarrollo de aplicaciones Front-end.
-
-## 🌱 Objetivos
-Continuar mejorando mis conocimientos en desarrollo web y tecnologías de backend, con la meta de convertirme en un ingeniero de sistemas completo y contribuir a proyectos de alto impacto.
-
-### 📊 GitHub Stats
+### 📊 *GitHub Stats*
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan14Saenz&show_icons=true&theme=onedark)
 
-### 🌐 Lenguajes más Usados
+### 🌐 *Most Used Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan14Saenz&layout=compact&theme=onedark)
 
-### 🏆 GitHub Profile Trophy
+### 🏆 *GitHub Profile Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Bryan14Saenz&theme=onedark&column=3)
 
-### 📫 Contacto
+### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/14bryansaenz/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/14bryansaenz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/14BryanSaenz)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bryan14saenz.is-a.dev/)
 
 ---
-Puedes contactarme en 14BryanSaenz.@gmail.com.
+You can contact me at 14BryanSaenz.@gmail.com.
