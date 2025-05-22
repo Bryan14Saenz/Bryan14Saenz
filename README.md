@@ -13,6 +13,7 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft)
 
 - *Methodologies*
 
