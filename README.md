@@ -50,6 +50,7 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 - Personal Portfolio: https://bryan14saenz.is-a.dev/
+- Nica Page: https://nicapage.netlify.app/
 
 ## 🏫 *Studies*
 - Ricardo Morales Aviles Multidisciplinary University - Systems Engineering.
