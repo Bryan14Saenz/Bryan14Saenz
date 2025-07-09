@@ -66,10 +66,10 @@ Continue improving my knowledge of web development and backend technologies, wit
 ### 🌐 *Most Used Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan14Saenz&layout=compact&theme=onedark)
 
-### 🏆 *GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=Bryan14Saenz&theme=onedark&column=3)
+### 🏆 *GitHub Profile Trophy*
+![trophy](https://github-profile-trophy.vercel.app/?username=Bryan14Saenz&theme=onedark)
 
-### 📫 Contact
+### 📫 *Contact*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/14bryansaenz/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/14bryansaenz)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/14BryanSaenz)
