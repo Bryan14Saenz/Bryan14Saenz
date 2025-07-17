@@ -7,7 +7,6 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 
 ## 💼 *Technical Skills*
 - *Tools*
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -16,26 +15,25 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft)
 
 - *Methodologies*
-
 ![BEM](https://img.shields.io/badge/BEM-007ACC?style=for-the-badge&logo=css3&logoColor=white)
 
 - *Markup Languages*
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - *Programming Languages*
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - *Package Managers*
-
 ![NPM](https://img.shields.io/badge/NPM-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- *Frameworks & Libraries*
+- *Linters and Formatters*
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 
+- *Frameworks & Libraries*
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -46,7 +44,6 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 
 ## 🛠️ *Featured Projects*
 - Remote Server
-
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 - Personal Portfolio: https://bryan14saenz.is-a.dev/
