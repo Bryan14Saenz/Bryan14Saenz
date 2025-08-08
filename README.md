@@ -8,6 +8,7 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 ## 💼 *Technical Skills*
 - *Tools*
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00BFFF?style=for-the-badge&logo=surfshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
@@ -51,9 +52,10 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 - Personal Portfolio: https://bryan14saenz.is-a.dev/
+- Ableton: https://frontendableton.netlify.app/
 - Nica Page: https://nicapage.netlify.app/
-- Delis Hots: https://delishots.netlify.app/
 - Turismo Espacial: https://spacetourismfm.netlify.app/
+- GitHub Profile: https://githubprofileb14s.netlify.app/
 
 ## 🏫 *Studies*
 - Ricardo Morales Aviles Multidisciplinary University - Systems Engineering.
